@@ -1,4 +1,4 @@
-# PControl 
+# PControl-backend 
 
 PControl is a Java application designed for controlling your PC using UDP client-server communication. This application enables users to send commands from a remote device to their PC over a local network, facilitating various remote actions or tasks.
 
